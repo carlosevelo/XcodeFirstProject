@@ -12,6 +12,7 @@ struct ContentView: View {
         VStack {
             Text("Hello, world!")
                 .padding()
+                .font(.title)
             Button(/*@START_MENU_TOKEN@*/"Button"/*@END_MENU_TOKEN@*/) {
 
             }
